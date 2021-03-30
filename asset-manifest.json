@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Youtube-Video-Player/static/css/main.59d95f26.chunk.css",
-    "main.js": "/Youtube-Video-Player/static/js/main.34e6f875.chunk.js",
-    "main.js.map": "/Youtube-Video-Player/static/js/main.34e6f875.chunk.js.map",
+    "main.css": "/Youtube-Video-Player/static/css/main.2fd31dba.chunk.css",
+    "main.js": "/Youtube-Video-Player/static/js/main.9ee85709.chunk.js",
+    "main.js.map": "/Youtube-Video-Player/static/js/main.9ee85709.chunk.js.map",
     "runtime-main.js": "/Youtube-Video-Player/static/js/runtime-main.5fa555de.js",
     "runtime-main.js.map": "/Youtube-Video-Player/static/js/runtime-main.5fa555de.js.map",
     "static/js/2.fbe83b20.chunk.js": "/Youtube-Video-Player/static/js/2.fbe83b20.chunk.js",
     "static/js/2.fbe83b20.chunk.js.map": "/Youtube-Video-Player/static/js/2.fbe83b20.chunk.js.map",
     "index.html": "/Youtube-Video-Player/index.html",
-    "static/css/main.59d95f26.chunk.css.map": "/Youtube-Video-Player/static/css/main.59d95f26.chunk.css.map",
+    "static/css/main.2fd31dba.chunk.css.map": "/Youtube-Video-Player/static/css/main.2fd31dba.chunk.css.map",
     "static/js/2.fbe83b20.chunk.js.LICENSE.txt": "/Youtube-Video-Player/static/js/2.fbe83b20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5fa555de.js",
     "static/js/2.fbe83b20.chunk.js",
-    "static/css/main.59d95f26.chunk.css",
-    "static/js/main.34e6f875.chunk.js"
+    "static/css/main.2fd31dba.chunk.css",
+    "static/js/main.9ee85709.chunk.js"
   ]
 }
