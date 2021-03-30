@@ -13,7 +13,7 @@ const App = () => {
     }, [videos]);
 
     return (
-        <div>
+        <div className="ui container">
             <SearchBar onSubmit={search} />
             <div className="ui grid">
                 <div className="ui row">
